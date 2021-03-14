@@ -1,0 +1,16 @@
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\bin\Debug\netstandard2.0\TicTacToeServer.deps.json
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\bin\Debug\netstandard2.0\TicTacToeServer.dll
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\bin\Debug\netstandard2.0\TicTacToeServer.pdb
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\bin\Debug\netstandard2.0\DarkRift.dll
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\bin\Debug\netstandard2.0\DarkRift.Server.dll
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\bin\Debug\netstandard2.0\DarkRift.pdb
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\bin\Debug\netstandard2.0\DarkRift.xml
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\bin\Debug\netstandard2.0\DarkRift.Server.pdb
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\bin\Debug\netstandard2.0\DarkRift.Server.xml
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\obj\Debug\netstandard2.0\TicTacToeServer.csprojAssemblyReference.cache
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\obj\Debug\netstandard2.0\TicTacToeServer.csproj.CoreCompileInputs.cache
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\obj\Debug\netstandard2.0\TicTacToeServer.AssemblyInfoInputs.cache
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\obj\Debug\netstandard2.0\TicTacToeServer.AssemblyInfo.cs
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\obj\Debug\netstandard2.0\TicTacToeServer.csproj.CopyComplete
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\obj\Debug\netstandard2.0\TicTacToeServer.dll
+C:\Users\Aquiles\source\repos\TicTacToeServer\TicTacToeServer\obj\Debug\netstandard2.0\TicTacToeServer.pdb
